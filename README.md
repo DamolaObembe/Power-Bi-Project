@@ -5,7 +5,7 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 
 
-![image alt](https://github.com/DamolaObembe/Power-Bi-Project/blob/7b90dce11655237d60f2f2932b8f41d32ec8ccca/Screenshot%20(1).png)
+![image alt](https://github.com/DamolaObembe/Power-Bi-Project/blob/7b90dce11655237d60f2f2932b8f41d32ec8ccca/Screenshot%20(1).png
 
 
 ## Objectives
@@ -84,9 +84,9 @@ Highest Profit-Generating Products:
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
 
-![image alt](https://github.com/Icemma/PowerBi-project/blob/c1ee57ca44f4f0df1d08836ca74ff7a1fb1f8129/Screenshot%202025-07-23%20141658.pn
 
  *Notably, Playdoh Can ranks high in sales volume but not in profitability.*
+ 
 
 ### Store & Location Analysis 
 1. *Which locations generate the highest profits?*
@@ -108,3 +108,34 @@ Highest Profit-Generating Products:
    - Highest Profit: March ($406K) 
 2. *Lowest Sales & Profits:* October
    - Sales: 48K units
+   -   - Profit: $179K 
+3. *Quarterly Trends:*
+   - Q2 (April–June): Highest sales
+   - Q4 (October–December): Lowest sales 
+4. *Yearly Trends:*
+   - 2017: Sales peaked towards year-end.
+   - 2018: Stronger sales from February–July, with March leading.
+
+### Inventory Analysis 
+*Current Inventory Value & Turnover:*
+- Total Inventory Value: $300K
+- Total Stock: 29,742 units
+- Average Daily Sales: 1,709 units
+- Estimated Inventory Duration: 15-17 days before restocking is required.
+
+
+## Summary & Recommendations 
+### Summary of Key Findings: 
+1. Downtown stores are the most profitable. 
+2. Toys lead in profitability, followed by Electronics. 
+3. Sales dip in January, February, and October. 
+4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown and Residential areas.
+
+### Strategic Recommendations: 
+1. Expand investment in Downtown stores to capitalize on high profitability. 
+2. Investigate low sales in January and February to identify and mitigate potential market challenges. 
+3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
+
+### References
+[power bi]
+
